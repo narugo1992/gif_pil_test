@@ -1,3 +1,4 @@
 pillow
 hbutils>=0.9.3
 dghs-imgutils
+git+https://github.com/deepghs/waifuc.git@main#egg=waifuc[video]
