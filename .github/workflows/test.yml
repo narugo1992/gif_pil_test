@@ -25,6 +25,7 @@ jobs:
         code:
           - main
           - db
+          - gif_150
 
     steps:
       - name: Get system version for Linux
